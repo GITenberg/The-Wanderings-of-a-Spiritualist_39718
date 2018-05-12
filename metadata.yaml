@@ -1,0 +1,36 @@
+_repo: The-Wanderings-of-a-Spiritualist_39718
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Doyle, Arthur Conan
+    aliases:
+    - Doyle, A. Conan
+    - Doyle, Sir Arthur Conan
+    - Conan Doyle, Arthur, Sir
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '69'
+    url: http://www.gutenberg.org/2009/agents/69
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Conan_Doyle
+description: ''
+gutenberg_issued: '2012-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39718'
+  lccn: '22026024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spiritualism -- Australia -- History -- 20th century'
+- !lcsh 'Doyle, Arthur Conan, 1859-1930 -- Travel -- Australia'
+- !lcsh 'Spiritualism'
+- !lcc 'BF'
+- !lcsh 'Australia -- Description and travel'
+- !lcsh 'Doyle, Arthur Conan, 1859-1930'
+title: The Wanderings of a Spiritualist
+url: http://www.gutenberg.org/ebooks/39718
